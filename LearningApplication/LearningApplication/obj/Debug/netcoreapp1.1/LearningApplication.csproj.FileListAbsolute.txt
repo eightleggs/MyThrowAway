@@ -1,0 +1,20 @@
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.deps.json
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.runtimeconfig.json
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.runtimeconfig.dev.json
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.dll
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.pdb
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.csprojResolveAssemblyReference.cache
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.csproj.CoreCompileInputs.cache
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.AssemblyInfo.cs
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.dll
+C:\Users\eightleggs\source\repos\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.pdb
+C:\My Project Repository\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.deps.json
+C:\My Project Repository\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.runtimeconfig.json
+C:\My Project Repository\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.runtimeconfig.dev.json
+C:\My Project Repository\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.dll
+C:\My Project Repository\LearningApplication\LearningApplication\bin\Debug\netcoreapp1.1\LearningApplication.pdb
+C:\My Project Repository\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.csprojResolveAssemblyReference.cache
+C:\My Project Repository\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.csproj.CoreCompileInputs.cache
+C:\My Project Repository\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.AssemblyInfo.cs
+C:\My Project Repository\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.dll
+C:\My Project Repository\LearningApplication\LearningApplication\obj\Debug\netcoreapp1.1\LearningApplication.pdb
